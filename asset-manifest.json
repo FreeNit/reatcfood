@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reatcfood/static/css/main.1543cc30.css",
+    "main.js": "/reatcfood/static/js/main.c64c697c.js",
+    "index.html": "/reatcfood/index.html",
+    "main.1543cc30.css.map": "/reatcfood/static/css/main.1543cc30.css.map",
+    "main.c64c697c.js.map": "/reatcfood/static/js/main.c64c697c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1543cc30.css",
+    "static/js/main.c64c697c.js"
+  ]
+}
